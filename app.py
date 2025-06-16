@@ -6,6 +6,7 @@ import seaborn as sns
 from ydata_profiling import ProfileReport
 
 df = pd.read_csv("35__welcome_survey_cleaned.csv", sep=";")
+df.to_csv("35__welcome_survey_cleaned_comma.csv", index=False)  # zapis z przecinkiem
 df['gender'] = df['gender'].fillna('Inne').replace({0: 'M', 1: 'K'})
 
 st.title("📊 Ankieta powitalna - analiza")
