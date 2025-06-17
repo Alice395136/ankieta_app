@@ -1,4 +1,4 @@
-import streamlit as st
+﻿import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -6,7 +6,7 @@ import seaborn as sns
 from ydata_profiling import ProfileReport
 
 # Ładuję dane
-df = pd.read_csv("35__welcome_survey_cleaned_comma.csv", sep=";")
+df = pd.read_csv("35__welcome_survey_cleaned_comma.csv", sep=";", encoding="utf-8-sig")
 
 # Zastępuję wartości None w kolumnie gender
 df['gender'] = df['gender'].fillna('Inne').replace({0: 'M', 1: 'K'})

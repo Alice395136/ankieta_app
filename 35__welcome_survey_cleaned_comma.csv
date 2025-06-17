@@ -1,48 +1,48 @@
 age;edu_level;fav_animals;fav_place;gender;hobby_art;hobby_books;hobby_movies;hobby_other;hobby_sport;hobby_video_games;industry;learning_pref_books;learning_pref_chatgpt;learning_pref_offline_courses;learning_pref_online_courses;learning_pref_personal_projects;learning_pref_teaching;learning_pref_teamwork;learning_pref_workshops;motivation_career;motivation_challenges;motivation_creativity_and_innovation;motivation_money_and_job;motivation_personal_growth;motivation_remote;sweet_or_salty;years_of_experience
 <18;Podstawowe;Brak ulubionych;;1.0;0;0;0;0;0;0;IT;0;0;0;1;0;0;0;0;0;0;0;0;0;0;;0-2
-25-34;Średnie;Psy;Nad wodą;0.0;0;0;1;0;0;1;IT;1;0;0;1;1;0;1;1;0;1;0;0;1;0;sweet;lis.15
+25-34;Średnie;Psy;Nad wodą;0.0;0;0;1;0;0;1;IT;1;0;0;1;1;0;1;1;0;1;0;0;1;0;sweet;11-15
 45-54;Wyższe;Psy;W lesie;0.0;0;0;1;0;0;0;Edukacja;1;0;0;1;1;0;1;1;0;1;0;1;1;0;salty;>=16
-35-44;Średnie;Koty;W górach;0.0;0;1;1;0;1;0;;0;0;0;1;0;0;1;1;0;1;0;1;1;0;sweet;lis.15
+35-44;Średnie;Koty;W górach;0.0;0;1;1;0;1;0;;0;0;0;1;0;0;1;1;0;1;0;1;1;0;sweet;11-15
 35-44;Wyższe;Psy;Nad wodą;0.0;0;0;0;1;1;0;Energetyka;1;0;0;1;0;0;0;0;0;1;0;0;1;0;sweet;>=16
-25-34;Wyższe;Psy;W lesie;0.0;0;1;0;1;1;0;Automotive;1;0;0;1;0;0;0;0;0;1;0;0;1;0;;06.pa�
-25-34;Wyższe;Koty;W górach;0.0;0;1;1;0;1;1;Automatyzacja;1;0;0;1;0;0;0;0;0;1;0;0;1;0;sweet;06.pa�
-25-34;Wyższe;Brak ulubionych;W górach;0.0;0;0;0;1;0;0;Energetyka zawodowa;1;0;0;1;1;0;0;0;0;1;0;1;1;0;sweet;06.pa�
-45-54;Wyższe;Psy;W górach;1.0;1;1;0;0;1;0;IT;1;0;0;1;1;0;0;0;0;1;0;0;1;0;sweet;06.pa�
+25-34;Wyższe;Psy;W lesie;0.0;0;1;0;1;1;0;Automotive;1;0;0;1;0;0;0;0;0;1;0;0;1;0;;6-10
+25-34;Wyższe;Koty;W górach;0.0;0;1;1;0;1;1;Automatyzacja;1;0;0;1;0;0;0;0;0;1;0;0;1;0;sweet;6-10
+25-34;Wyższe;Brak ulubionych;W górach;0.0;0;0;0;1;0;0;Energetyka zawodowa;1;0;0;1;1;0;0;0;0;1;0;1;1;0;sweet;6-10
+45-54;Wyższe;Psy;W górach;1.0;1;1;0;0;1;0;IT;1;0;0;1;1;0;0;0;0;1;0;0;1;0;sweet;6-10
 18-24;Średnie;Koty;W górach;0.0;0;0;0;0;1;1;;0;0;0;1;0;0;1;1;0;1;0;1;1;0;salty;0-2
-35-44;Wyższe;Brak ulubionych;W górach;0.0;0;0;1;0;1;0;IT;1;0;0;1;1;0;1;1;0;0;0;0;1;0;;lis.15
-25-34;Wyższe;Psy;W lesie;1.0;1;1;1;0;1;0;Zdrowie;0;0;0;1;1;0;0;1;0;1;0;0;1;0;sweet;lis.15
+35-44;Wyższe;Brak ulubionych;W górach;0.0;0;0;1;0;1;0;IT;1;0;0;1;1;0;1;1;0;0;0;0;1;0;;11-15
+25-34;Wyższe;Psy;W lesie;1.0;1;1;1;0;1;0;Zdrowie;0;0;0;1;1;0;0;1;0;1;0;0;1;0;sweet;11-15
 35-44;Wyższe;Psy;Nad wodą;0.0;0;0;0;0;1;0;Kadry (HR);0;0;0;1;0;0;0;1;0;1;0;0;1;0;sweet;>=16
 35-44;Średnie;Inne;W górach;0.0;0;1;1;0;0;1;Marketing;0;0;0;1;0;0;0;0;0;0;0;0;1;0;sweet;0-2
 45-54;Wyższe;Inne;Nad wodą;0.0;0;0;0;1;0;0;Edukacja;1;0;0;1;1;0;1;1;0;1;0;0;1;0;;>=16
-35-44;Średnie;Koty;Nad wodą;0.0;0;1;0;0;0;0;Produkcja;1;0;0;1;1;0;0;0;0;0;0;1;1;0;sweet;06.pa�
+35-44;Średnie;Koty;Nad wodą;0.0;0;1;0;0;0;0;Produkcja;1;0;0;1;1;0;0;0;0;0;0;1;1;0;sweet;6-10
 >=65;Wyższe;Brak ulubionych;;0.0;0;0;0;1;0;0;Wellness;1;0;0;1;1;0;1;1;0;1;0;0;0;0;sweet;>=16
 45-54;Wyższe;Psy;W górach;0.0;0;0;0;1;0;0;IT;0;0;0;1;1;0;1;1;0;1;0;0;1;0;salty;>=16
-35-44;Wyższe;Koty;;0.0;0;1;0;0;1;0;IT;1;0;0;1;0;0;0;0;0;1;0;1;1;0;sweet;lis.15
-45-54;Wyższe;Koty i Psy;Nad wodą;1.0;0;1;1;0;1;0;Marketing;0;0;0;1;0;0;0;1;0;0;0;1;0;0;salty;06.pa�
-35-44;Wyższe;Psy;Nad wodą;0.0;0;0;1;0;0;1;IT;0;0;0;1;0;0;0;0;0;1;0;1;1;0;salty;06.pa�
+35-44;Wyższe;Koty;;0.0;0;1;0;0;1;0;IT;1;0;0;1;0;0;0;0;0;1;0;1;1;0;sweet;11-15
+45-54;Wyższe;Koty i Psy;Nad wodą;1.0;0;1;1;0;1;0;Marketing;0;0;0;1;0;0;0;1;0;0;0;1;0;0;salty;6-10
+35-44;Wyższe;Psy;Nad wodą;0.0;0;0;1;0;0;1;IT;0;0;0;1;0;0;0;0;0;1;0;1;1;0;salty;6-10
 >=65;Wyższe;Brak ulubionych;W lesie;1.0;0;1;0;0;0;0;;1;0;0;1;0;0;1;1;0;1;0;0;1;0;salty;>=16
 35-44;Wyższe;Psy;Nad wodą;0.0;0;0;1;0;1;1;Chemia;0;0;0;0;0;0;1;0;0;1;0;0;0;0;sweet;0-2
-35-44;Wyższe;Psy;Nad wodą;0.0;0;0;0;1;0;0;Nieruchomości;0;0;0;1;0;0;1;1;0;1;0;0;1;0;sweet;06.pa�
+35-44;Wyższe;Psy;Nad wodą;0.0;0;0;0;1;0;0;Nieruchomości;0;0;0;1;0;0;1;1;0;1;0;0;1;0;sweet;6-10
 45-54;Średnie;Psy;Nad wodą;0.0;0;0;0;0;1;1;Poligrafia;0;0;0;1;0;0;1;1;0;1;0;0;1;0;sweet;>=16
 45-54;Wyższe;Psy;W lesie;0.0;0;0;0;0;0;0;;0;0;0;0;1;0;0;0;0;1;0;0;0;0;salty;>=16
 35-44;Wyższe;Koty;W górach;0.0;0;1;1;0;0;0;Administracja publiczna;1;0;0;1;1;0;0;0;0;1;0;1;1;0;sweet;>=16
-35-44;Wyższe;Koty;W górach;0.0;0;0;0;0;1;0;IT;0;0;0;1;0;0;1;1;0;0;0;0;1;0;salty;lis.15
-25-34;Wyższe;Koty;W górach;1.0;0;1;1;1;0;0;Automotive;0;0;0;1;1;0;1;1;0;1;0;0;1;0;salty;06.pa�
-25-34;Wyższe;Koty;W górach;0.0;0;1;0;0;1;1;IT;1;0;0;1;1;0;1;1;0;1;0;1;1;0;sweet;03.maj
-55-64;Wyższe;Inne;;0.0;0;0;1;0;0;1;IT;0;0;0;1;1;0;1;1;0;1;0;1;1;0;;lis.15
-35-44;Średnie;Psy;Nad wodą;1.0;0;1;0;0;0;0;Usługi;1;0;0;1;1;0;0;0;0;1;0;0;1;0;sweet;06.pa�
+35-44;Wyższe;Koty;W górach;0.0;0;0;0;0;1;0;IT;0;0;0;1;0;0;1;1;0;0;0;0;1;0;salty;11-15
+25-34;Wyższe;Koty;W górach;1.0;0;1;1;1;0;0;Automotive;0;0;0;1;1;0;1;1;0;1;0;0;1;0;salty;6-10
+25-34;Wyższe;Koty;W górach;0.0;0;1;0;0;1;1;IT;1;0;0;1;1;0;1;1;0;1;0;1;1;0;sweet;3-5
+55-64;Wyższe;Inne;;0.0;0;0;1;0;0;1;IT;0;0;0;1;1;0;1;1;0;1;0;1;1;0;;11-15
+35-44;Średnie;Psy;Nad wodą;1.0;0;1;0;0;0;0;Usługi;1;0;0;1;1;0;0;0;0;1;0;0;1;0;sweet;6-10
 35-44;Wyższe;Koty;Nad wodą;0.0;0;1;1;0;1;0;Obsługa klienta;0;0;0;1;1;0;0;0;0;1;0;0;1;0;sweet;>=16
-25-34;Średnie;Inne;Inne;0.0;1;1;0;0;1;0;Brak;1;0;0;1;1;0;0;0;0;1;0;1;1;0;sweet;03.maj
+25-34;Średnie;Inne;Inne;0.0;1;1;0;0;1;0;Brak;1;0;0;1;1;0;0;0;0;1;0;1;1;0;sweet;3-5
 45-54;Średnie;Koty;Inne;0.0;0;1;1;0;1;1;Budowlana;1;0;0;1;0;0;1;1;0;1;0;1;1;0;salty;>=16
-25-34;Średnie;Psy;Nad wodą;0.0;0;0;1;0;1;1;Automatyka i robotyka;0;0;0;1;1;0;1;0;1;0;0;1;1;0;salty;06.pa�
-25-34;Średnie;Inne;W górach;0.0;0;1;1;0;1;0;Bezrobotny;1;0;0;0;0;0;0;0;0;1;0;1;1;0;salty;03.maj
+25-34;Średnie;Psy;Nad wodą;0.0;0;0;1;0;1;1;Automatyka i robotyka;0;0;0;1;1;0;1;0;1;0;0;1;1;0;salty;6-10
+25-34;Średnie;Inne;W górach;0.0;0;1;1;0;1;0;Bezrobotny;1;0;0;0;0;0;0;0;0;1;0;1;1;0;salty;3-5
 35-44;Wyższe;Brak ulubionych;Nad wodą;0.0;0;1;0;0;0;0;Finanse;1;0;0;1;1;0;1;1;0;1;0;0;0;0;sweet;>=16
 45-54;Średnie;Psy;W górach;0.0;1;0;1;0;0;0;Zdrowie;1;0;0;1;1;0;0;1;0;1;0;0;1;0;;>=16
-25-34;Wyższe;Psy;W górach;0.0;0;0;1;0;0;1;IT;1;1;0;1;1;0;1;1;0;1;0;0;1;0;sweet;06.pa�
+25-34;Wyższe;Psy;W górach;0.0;0;0;1;0;0;1;IT;1;1;0;1;1;0;1;1;0;1;0;0;1;0;sweet;6-10
 45-54;Wyższe;Koty;W lesie;0.0;1;0;1;0;1;0;IT;1;0;0;1;0;0;0;0;0;1;0;0;1;0;sweet;>=16
-35-44;Wyższe;Psy;W górach;;0;0;1;0;0;1;;1;0;0;1;0;0;0;0;0;0;0;0;1;0;salty;lis.15
+35-44;Wyższe;Psy;W górach;;0;0;1;0;0;1;;1;0;0;1;0;0;0;0;0;0;0;0;1;0;salty;11-15
 35-44;Wyższe;Brak ulubionych;W lesie;0.0;0;0;0;1;0;0;Finanse;0;0;0;1;0;0;0;0;0;0;0;1;1;0;sweet;>=16
-35-44;Średnie;Psy;Nad wodą;1.0;0;1;0;0;0;0;Zdrowie;1;0;0;1;1;0;1;1;0;1;0;0;1;0;salty;lis.15
+35-44;Średnie;Psy;Nad wodą;1.0;0;1;0;0;0;0;Zdrowie;1;0;0;1;1;0;1;1;0;1;0;0;1;0;salty;11-15
 45-54;Wyższe;Psy;Nad wodą;1.0;0;1;1;0;0;1;IT;0;0;0;1;1;0;1;1;0;1;0;0;1;0;sweet;>=16
 45-54;Średnie;Psy;Nad wodą;0.0;0;0;0;0;1;0;Inżynieria;1;0;0;1;0;0;1;1;0;1;0;1;1;0;sweet;>=16
 35-44;Wyższe;Inne;W górach;0.0;0;1;1;0;0;0;Administracja publiczna;1;0;0;1;0;0;0;1;0;1;0;0;1;0;salty;>=16
@@ -51,16 +51,16 @@ unknown;Wyższe;Brak ulubionych;;;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;
 >=65;Wyższe;Brak ulubionych;W górach;1.0;1;1;0;1;0;0;Emerytura;1;0;0;1;1;0;0;0;0;1;0;0;1;0;sweet;>=16
 45-54;Wyższe;Brak ulubionych;W górach;1.0;0;1;1;1;0;0;IT;1;0;0;1;1;0;1;1;0;1;0;0;1;0;salty;>=16
 45-54;Wyższe;Inne;W lesie;1.0;0;1;1;0;1;0;Hotelarstwo;1;0;1;1;0;0;1;0;0;1;0;0;1;0;salty;>=16
-25-34;Wyższe;Psy;Inne;1.0;0;1;1;0;0;0;;1;0;0;1;1;0;0;1;0;1;0;1;1;0;sweet;06.pa�
-18-24;Wyższe;Brak ulubionych;W górach;0.0;0;0;1;1;1;0;Energetyka;0;0;0;1;0;0;0;0;0;1;0;1;1;0;sweet;06.pa�
-35-44;Wyższe;Psy;W lesie;0.0;0;1;1;0;0;0;Logistyka;1;0;0;1;1;0;0;0;0;0;0;1;1;0;salty;lis.15
-25-34;Średnie;Koty;W lesie;0.0;0;0;0;1;0;0;;0;0;0;1;0;0;0;0;0;1;0;0;0;0;salty;lis.15
+25-34;Wyższe;Psy;Inne;1.0;0;1;1;0;0;0;;1;0;0;1;1;0;0;1;0;1;0;1;1;0;sweet;6-10
+18-24;Wyższe;Brak ulubionych;W górach;0.0;0;0;1;1;1;0;Energetyka;0;0;0;1;0;0;0;0;0;1;0;1;1;0;sweet;6-10
+35-44;Wyższe;Psy;W lesie;0.0;0;1;1;0;0;0;Logistyka;1;0;0;1;1;0;0;0;0;0;0;1;1;0;salty;11-15
+25-34;Średnie;Koty;W lesie;0.0;0;0;0;1;0;0;;0;0;0;1;0;0;0;0;0;1;0;0;0;0;salty;11-15
 55-64;Wyższe;Psy;W górach;0.0;0;1;0;0;1;0;IT;1;0;0;1;1;0;0;0;0;1;0;0;1;0;sweet;>=16
 35-44;Wyższe;Psy;W górach;0.0;0;1;0;0;0;0;Marketing;0;0;0;1;1;0;0;0;0;1;0;0;0;0;salty;>=16
-35-44;Wyższe;Psy;W lesie;0.0;0;1;1;0;1;1;Motoryzacja;1;0;0;1;1;0;0;0;0;1;0;1;1;0;salty;06.pa�
-35-44;Wyższe;Inne;Nad wodą;0.0;0;0;0;1;1;0;Finanse;0;0;0;1;0;0;0;1;0;1;0;1;1;0;sweet;lis.15
+35-44;Wyższe;Psy;W lesie;0.0;0;1;1;0;1;1;Motoryzacja;1;0;0;1;1;0;0;0;0;1;0;1;1;0;salty;6-10
+35-44;Wyższe;Inne;Nad wodą;0.0;0;0;0;1;1;0;Finanse;0;0;0;1;0;0;0;1;0;1;0;1;1;0;sweet;11-15
 45-54;Wyższe;Psy;W górach;0.0;0;1;1;0;1;0;Edukacja;1;0;0;1;1;0;1;1;0;1;0;1;1;0;salty;>=16
-35-44;Wyższe;Inne;Nad wodą;0.0;1;1;0;1;0;0;;1;0;0;1;1;0;1;1;0;0;0;0;0;0;salty;lis.15
+35-44;Wyższe;Inne;Nad wodą;0.0;1;1;0;1;0;0;;1;0;0;1;1;0;1;1;0;0;0;0;0;0;salty;11-15
 35-44;Średnie;Brak ulubionych;;1.0;0;0;0;1;0;0;Usługi;0;0;0;1;0;0;1;1;0;0;0;0;0;0;;>=16
 35-44;Wyższe;Koty i Psy;W górach;1.0;0;1;1;1;0;0;;0;0;0;1;1;0;1;1;0;1;0;0;1;0;sweet;>=16
 35-44;Wyższe;Koty;W górach;0.0;0;0;0;0;1;0;;0;0;0;1;0;0;0;1;0;0;0;1;1;0;sweet;>=16
@@ -68,18 +68,18 @@ unknown;Wyższe;Brak ulubionych;;;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;
 45-54;Wyższe;Inne;Inne;0.0;1;0;0;0;0;0;Finanse;1;0;0;1;0;0;0;1;0;0;0;0;1;0;salty;>=16
 45-54;Wyższe;Psy;Nad wodą;0.0;0;1;1;0;1;1;Produkcja;0;0;0;1;1;0;1;1;0;1;0;1;1;0;sweet;>=16
 35-44;Wyższe;Psy;Nad wodą;0.0;0;0;0;0;1;0;Produkcja;0;0;0;1;1;0;0;0;0;0;0;1;1;0;salty;>=16
-25-34;Wyższe;Psy;Nad wodą;1.0;0;0;1;0;0;0;;1;0;0;1;1;0;0;0;0;1;0;1;1;0;sweet;06.pa�
-35-44;Wyższe;Inne;Nad wodą;1.0;0;0;0;1;0;0;;1;0;0;1;1;0;0;1;0;1;0;0;1;0;sweet;lis.15
+25-34;Wyższe;Psy;Nad wodą;1.0;0;0;1;0;0;0;;1;0;0;1;1;0;0;0;0;1;0;1;1;0;sweet;6-10
+35-44;Wyższe;Inne;Nad wodą;1.0;0;0;0;1;0;0;;1;0;0;1;1;0;0;1;0;1;0;0;1;0;sweet;11-15
 55-64;Wyższe;Psy;Nad wodą;0.0;0;1;0;0;0;0;Zdrowie;1;0;0;1;1;0;1;1;0;1;0;0;1;0;salty;>=16
 55-64;Wyższe;Psy;Nad wodą;0.0;0;1;0;0;0;0;Zdrowie;1;0;0;1;1;0;1;1;0;1;0;0;1;0;salty;
 45-54;Wyższe;Koty i Psy;;0.0;0;0;1;1;0;0;Zdrowie;0;0;0;1;0;0;1;0;0;1;0;1;1;0;salty;>=16
-35-44;Wyższe;Psy;W górach;0.0;0;0;0;0;1;1;;1;0;0;1;1;0;0;0;0;0;0;1;1;0;salty;lis.15
-35-44;Wyższe;Psy;W lesie;1.0;0;0;0;0;1;0;Produkcja;0;0;0;1;1;0;0;0;0;1;0;0;0;0;sweet;lis.15
+35-44;Wyższe;Psy;W górach;0.0;0;0;0;0;1;1;;1;0;0;1;1;0;0;0;0;0;0;1;1;0;salty;11-15
+35-44;Wyższe;Psy;W lesie;1.0;0;0;0;0;1;0;Produkcja;0;0;0;1;1;0;0;0;0;1;0;0;0;0;sweet;11-15
 55-64;Wyższe;Koty i Psy;Nad wodą;0.0;1;0;1;0;1;0;IT;1;0;0;1;1;0;1;1;1;0;0;0;1;0;salty;>=16
-35-44;Wyższe;Psy;;1.0;0;1;1;0;1;0;Finanse;1;0;0;1;0;0;0;1;0;0;0;0;1;0;sweet;06.pa�
-25-34;Wyższe;Psy;W lesie;1.0;0;0;1;1;1;0;Zdrowie;0;0;0;1;1;0;1;1;0;1;0;1;1;0;sweet;06.pa�
-35-44;Wyższe;Psy;;0.0;0;1;0;1;1;0;;1;0;0;1;0;0;0;1;0;1;0;0;1;0;salty;lis.15
-25-34;Wyższe;Inne;W górach;0.0;0;0;1;0;1;0;Usługi;1;0;0;1;1;0;0;0;0;1;0;1;1;0;sweet;06.pa�
+35-44;Wyższe;Psy;;1.0;0;1;1;0;1;0;Finanse;1;0;0;1;0;0;0;1;0;0;0;0;1;0;sweet;6-10
+25-34;Wyższe;Psy;W lesie;1.0;0;0;1;1;1;0;Zdrowie;0;0;0;1;1;0;1;1;0;1;0;1;1;0;sweet;6-10
+35-44;Wyższe;Psy;;0.0;0;1;0;1;1;0;;1;0;0;1;0;0;0;1;0;1;0;0;1;0;salty;11-15
+25-34;Wyższe;Inne;W górach;0.0;0;0;1;0;1;0;Usługi;1;0;0;1;1;0;0;0;0;1;0;1;1;0;sweet;6-10
 55-64;Wyższe;Psy;;0.0;0;1;0;0;0;0;IT;0;0;0;1;0;0;0;0;0;1;0;0;1;0;sweet;>=16
 18-24;Średnie;Psy;W górach;0.0;0;0;0;0;0;0;IT;1;0;0;1;1;0;0;0;0;1;0;1;1;0;salty;0-2
 35-44;Wyższe;Psy;Nad wodą;1.0;0;1;0;0;0;0;Zdrowie;1;0;0;1;1;0;0;0;0;1;0;0;1;0;salty;0-2
@@ -88,40 +88,40 @@ unknown;Wyższe;Brak ulubionych;;;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;
 45-54;Wyższe;Psy;Nad wodą;1.0;0;1;1;0;0;0;IT;1;0;0;1;0;0;0;1;0;0;0;0;1;0;sweet;>=16
 35-44;Wyższe;Brak ulubionych;W górach;0.0;0;0;0;0;1;0;Finanse;0;0;0;0;1;0;1;0;0;1;0;0;1;0;salty;0-2
 45-54;Średnie;Psy;W górach;0.0;0;0;0;0;1;0;IT;1;0;0;1;1;0;0;0;0;1;0;1;1;0;salty;>=16
-25-34;Wyższe;Psy;Nad wodą;0.0;0;1;0;0;1;0;Automotive;1;0;0;1;0;0;0;0;0;1;0;1;1;0;salty;06.pa�
-35-44;Wyższe;Psy;Nad wodą;0.0;1;1;1;0;1;0;Finanse;1;0;0;1;0;0;0;1;0;0;0;1;1;0;salty;06.pa�
-25-34;Wyższe;Inne;W lesie;0.0;0;0;1;0;0;1;Pomoc Społeczna;0;0;0;1;1;0;1;0;0;0;0;0;1;0;sweet;03.maj
+25-34;Wyższe;Psy;Nad wodą;0.0;0;1;0;0;1;0;Automotive;1;0;0;1;0;0;0;0;0;1;0;1;1;0;salty;6-10
+35-44;Wyższe;Psy;Nad wodą;0.0;1;1;1;0;1;0;Finanse;1;0;0;1;0;0;0;1;0;0;0;1;1;0;salty;6-10
+25-34;Wyższe;Inne;W lesie;0.0;0;0;1;0;0;1;Pomoc Społeczna;0;0;0;1;1;0;1;0;0;0;0;0;1;0;sweet;3-5
 25-34;Średnie;Psy;W górach;0.0;0;0;0;0;1;1;Transport;1;0;0;1;0;0;1;1;0;1;0;1;1;0;salty;0-2
 45-54;Średnie;Inne;W lesie;0.0;0;1;0;0;1;1;Marketing;1;0;0;1;1;0;0;0;0;0;1;0;1;0;sweet;>=16
 unknown;Wyższe;Psy;Nad wodą;1.0;1;1;0;1;0;0;;1;0;0;1;1;0;1;1;0;1;0;0;1;0;sweet;>=16
-35-44;Wyższe;Psy;W lesie;0.0;1;0;1;0;1;0;Logistyka i Produkcja;0;0;0;1;0;0;1;1;0;1;0;1;1;0;salty;lis.15
+35-44;Wyższe;Psy;W lesie;0.0;1;0;1;0;1;0;Logistyka i Produkcja;0;0;0;1;0;0;1;1;0;1;0;1;1;0;salty;11-15
 45-54;Wyższe;Psy;W lesie;0.0;0;0;0;0;1;0;Transport;0;0;0;1;1;0;1;1;0;1;0;1;0;0;sweet;>=16
 55-64;Wyższe;Psy;W lesie;0.0;0;0;0;0;1;0;Nieruchomości;0;0;0;1;1;0;1;0;0;1;0;1;1;0;salty;>=16
-35-44;Średnie;Psy;W lesie;1.0;0;1;0;0;0;0;Finanse;1;0;0;1;0;0;0;1;0;0;0;1;1;0;sweet;06.pa�
+35-44;Średnie;Psy;W lesie;1.0;0;1;0;0;0;0;Finanse;1;0;0;1;0;0;0;1;0;0;0;1;1;0;sweet;6-10
 35-44;Wyższe;Psy;;0.0;0;0;1;0;1;1;Bezpieczeństwo;1;0;0;1;1;0;1;1;0;1;0;0;1;0;sweet;>=16
-35-44;Wyższe;Psy;Nad wodą;1.0;0;1;1;0;0;0;;1;0;0;1;1;0;0;1;0;1;0;1;1;0;sweet;06.pa�
-35-44;Wyższe;Brak ulubionych;Nad wodą;0.0;0;0;1;0;0;1;Automotive;0;0;0;1;0;0;1;1;0;0;0;1;1;0;sweet;06.pa�
+35-44;Wyższe;Psy;Nad wodą;1.0;0;1;1;0;0;0;;1;0;0;1;1;0;0;1;0;1;0;1;1;0;sweet;6-10
+35-44;Wyższe;Brak ulubionych;Nad wodą;0.0;0;0;1;0;0;1;Automotive;0;0;0;1;0;0;1;1;0;0;0;1;1;0;sweet;6-10
 35-44;Wyższe;Brak ulubionych;;0.0;0;0;0;0;0;0;Edukacja;1;0;0;1;1;0;0;0;0;1;0;1;1;0;;>=16
 45-54;Średnie;Inne;Inne;0.0;1;1;1;1;0;0;Logistyka i Transport;1;0;0;1;1;0;1;1;0;1;0;0;1;0;sweet;>=16
 45-54;Średnie;Brak ulubionych;W górach;0.0;0;1;1;0;0;1;Usługi;1;0;0;1;0;0;0;0;0;1;0;1;0;0;salty;>=16
 55-64;Wyższe;Psy;Nad wodą;0.0;0;0;0;0;1;0;Edukacja;0;0;0;1;1;0;1;1;0;1;0;1;0;0;sweet;>=16
 35-44;Średnie;Psy;W górach;0.0;0;1;0;1;0;1;Logistyka;1;0;0;1;0;0;1;1;0;1;0;1;1;0;sweet;0-2
-35-44;Wyższe;Koty;W górach;1.0;0;0;1;0;1;0;Budownictwo;0;0;0;1;1;0;0;0;0;1;0;0;0;0;sweet;lis.15
+35-44;Wyższe;Koty;W górach;1.0;0;0;1;0;1;0;Budownictwo;0;0;0;1;1;0;0;0;0;1;0;0;0;0;sweet;11-15
 45-54;Wyższe;Psy;Nad wodą;1.0;0;0;1;0;0;0;Usługi;1;0;0;0;0;0;0;0;0;0;0;1;1;0;sweet;0-2
-25-34;Średnie;Koty;W lesie;0.0;0;0;0;0;1;1;Transport;1;0;0;1;0;0;0;0;0;1;0;0;1;1;sweet;03.maj
+25-34;Średnie;Koty;W lesie;0.0;0;0;0;0;1;1;Transport;1;0;0;1;0;0;0;0;0;1;0;0;1;1;sweet;3-5
 45-54;Wyższe;Psy;Nad wodą;0.0;0;0;0;1;0;0;IT;1;0;0;1;1;0;1;1;0;1;0;0;1;0;sweet;>=16
 45-54;Wyższe;Psy;Nad wodą;0.0;0;0;1;0;1;0;IT;0;0;0;1;0;0;1;1;0;1;0;0;1;0;sweet;>=16
-35-44;Wyższe;Koty;W górach;0.0;0;0;1;0;0;1;;0;0;0;1;1;0;1;1;0;1;0;1;1;0;salty;lis.15
+35-44;Wyższe;Koty;W górach;0.0;0;0;1;0;0;1;;0;0;0;1;1;0;1;1;0;1;0;1;1;0;salty;11-15
 45-54;Wyższe;Psy;Inne;0.0;1;0;1;0;0;0;Logistyka;0;0;0;1;0;0;0;0;0;0;0;0;1;0;salty;>=16
 45-54;Wyższe;Psy;W lesie;0.0;0;0;1;0;1;1;Usługi;0;0;0;1;0;0;0;0;0;0;0;0;1;0;sweet;>=16
-25-34;Wyższe;Koty;;0.0;0;1;1;0;0;1;Architektura;0;0;0;0;1;0;1;1;0;1;0;0;1;0;;03.maj
+25-34;Wyższe;Koty;;0.0;0;1;1;0;0;1;Architektura;0;0;0;0;1;0;1;1;0;1;0;0;1;0;;3-5
 45-54;Wyższe;Brak ulubionych;Nad wodą;0.0;1;0;0;0;0;0;IT;1;0;0;1;1;0;1;1;0;1;0;1;1;0;salty;>=16
 45-54;Wyższe;Inne;W lesie;0.0;0;1;0;1;0;0;Transport;1;0;0;1;1;0;1;1;0;1;0;0;1;0;sweet;>=16
 45-54;Wyższe;Psy;W lesie;0.0;0;0;1;1;0;0;Inżynieria;1;0;0;1;1;0;0;0;0;1;0;1;0;0;sweet;>=16
-25-34;Wyższe;Psy;W górach;0.0;0;1;1;0;1;0;E-commerce;0;0;0;0;0;0;1;1;0;1;0;1;1;0;sweet;06.pa�
+25-34;Wyższe;Psy;W górach;0.0;0;1;1;0;1;0;E-commerce;0;0;0;0;0;0;1;1;0;1;0;1;1;0;sweet;6-10
 45-54;Średnie;Inne;W górach;0.0;0;1;0;1;1;0;IT;1;0;1;1;0;0;0;1;0;1;0;1;1;0;sweet;>=16
 18-24;Średnie;Psy;Nad wodą;0.0;0;0;0;0;1;1;;1;0;0;1;1;0;0;1;0;1;0;0;1;0;salty;0-2
-35-44;Wyższe;Psy;Nad wodą;0.0;0;1;1;0;0;1;IT;1;0;0;1;1;0;0;1;0;1;0;1;1;0;sweet;06.pa�
+35-44;Wyższe;Psy;Nad wodą;0.0;0;1;1;0;0;1;IT;1;0;0;1;1;0;0;1;0;1;0;1;1;0;sweet;6-10
 45-54;Wyższe;Psy;W lesie;0.0;0;1;0;0;1;0;Budownictwo;0;0;0;1;1;0;0;0;0;1;0;0;1;0;salty;>=16
 >=65;Wyższe;Psy;Nad wodą;0.0;0;0;1;1;1;0;Energetyka;0;0;0;1;0;0;1;1;0;1;0;1;0;0;sweet;>=16
 35-44;Wyższe;Koty;W górach;0.0;1;0;1;0;0;0;IT;1;0;0;1;1;0;0;0;0;1;0;0;1;0;sweet;>=16
@@ -129,13 +129,13 @@ unknown;Wyższe;Psy;Nad wodą;1.0;1;1;0;1;0;0;;1;0;0;1;1;0;1;1;0;1;0;0;1;0;sweet
 45-54;Wyższe;Psy;;1.0;0;0;1;0;0;0;Marketing;0;0;0;1;1;0;0;0;0;1;0;0;1;0;sweet;>=16
 45-54;Wyższe;Inne;Nad wodą;0.0;0;0;0;1;1;0;Edukacja;0;0;0;1;0;1;1;1;0;0;0;1;1;0;sweet;>=16
 35-44;Wyższe;Brak ulubionych;W lesie;0.0;0;1;0;0;0;1;Logistyka;0;0;0;1;0;0;0;1;0;0;0;1;1;0;sweet;>=16
-18-24;Średnie;Psy;W górach;0.0;0;0;0;0;0;1;Automotive;0;0;0;1;0;0;0;0;0;0;0;1;1;0;salty;03.maj
-35-44;Wyższe;Psy;Nad wodą;0.0;0;1;1;0;1;0;IT;0;0;0;1;1;0;0;0;0;1;0;0;1;0;salty;lis.15
+18-24;Średnie;Psy;W górach;0.0;0;0;0;0;0;1;Automotive;0;0;0;1;0;0;0;0;0;0;0;1;1;0;salty;3-5
+35-44;Wyższe;Psy;Nad wodą;0.0;0;1;1;0;1;0;IT;0;0;0;1;1;0;0;0;0;1;0;0;1;0;salty;11-15
 45-54;Wyższe;Koty;W lesie;0.0;1;1;1;1;0;1;Energetyka;0;0;0;1;1;0;0;1;0;1;0;1;1;0;salty;>=16
-35-44;Wyższe;Inne;W górach;0.0;0;0;0;0;1;0;Logistyka;0;0;0;1;0;0;0;0;0;0;0;1;1;0;sweet;lis.15
-55-64;Wyższe;Psy;Nad wodą;0.0;0;1;1;1;0;0;IT;0;0;0;1;1;0;1;1;0;1;0;1;1;0;sweet;lis.15
-35-44;Wyższe;Koty;W górach;0.0;0;0;0;0;1;1;Gastronomia;1;0;0;1;0;0;0;0;0;1;0;1;0;0;salty;06.pa�
-35-44;Wyższe;Psy;W górach;0.0;0;0;0;1;1;0;Energetyka;1;0;0;1;1;0;1;1;0;1;0;1;0;0;sweet;lis.15
-45-54;Wyższe;Psy;W lesie;1.0;0;1;1;1;0;0;Edukacja;1;0;0;1;0;0;0;1;0;0;0;1;1;0;sweet;lis.15
-35-44;Wyższe;Psy;Nad wodą;1.0;0;0;1;0;0;0;Finanse;0;0;0;1;1;0;1;1;0;1;0;1;1;0;salty;06.pa�
+35-44;Wyższe;Inne;W górach;0.0;0;0;0;0;1;0;Logistyka;0;0;0;1;0;0;0;0;0;0;0;1;1;0;sweet;11-15
+55-64;Wyższe;Psy;Nad wodą;0.0;0;1;1;1;0;0;IT;0;0;0;1;1;0;1;1;0;1;0;1;1;0;sweet;11-15
+35-44;Wyższe;Koty;W górach;0.0;0;0;0;0;1;1;Gastronomia;1;0;0;1;0;0;0;0;0;1;0;1;0;0;salty;6-10
+35-44;Wyższe;Psy;W górach;0.0;0;0;0;1;1;0;Energetyka;1;0;0;1;1;0;1;1;0;1;0;1;0;0;sweet;11-15
+45-54;Wyższe;Psy;W lesie;1.0;0;1;1;1;0;0;Edukacja;1;0;0;1;0;0;0;1;0;0;0;1;1;0;sweet;11-15
+35-44;Wyższe;Psy;Nad wodą;1.0;0;0;1;0;0;0;Finanse;0;0;0;1;1;0;1;1;0;1;0;1;1;0;salty;6-10
 18-24;Średnie;Inne;W górach;0.0;0;0;1;0;0;1;Logistyka;1;0;0;1;0;0;0;0;0;0;0;1;1;0;sweet;0-2
