@@ -6,7 +6,7 @@ import seaborn as sns
 from ydata_profiling import ProfileReport
 
 # Ładuję dane
-df = pd.read_csv("35__welcome_survey_cleaned_comma.csv")
+df = pd.read_csv("35__welcome_survey_cleaned_comma.csv", sep=";", encoding="cp1250")
 
 # Zastępuję wartości None w kolumnie gender
 df['gender'] = df['gender'].fillna('Inne').replace({0: 'M', 1: 'K'})
